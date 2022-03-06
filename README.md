@@ -38,6 +38,13 @@
 ---
 
 # Backend
+- Java
+- Spring Boot, Spring MVC, Spring Data JPA
+- JPA, Querydsl
+- Junit, Mockito
+- Gradle
+- IntelliJ, Visual Studio Code
+- Git
 
 ## **Opensource**
 
