@@ -1,10 +1,16 @@
 # 전념을 즐기는 사람, 김주형입니다! 🔥
 
+
+
+
+
 # **About Me**  🧑🏻‍💻
 
 ---
 
-![My project (2).png](%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%82%E1%85%A7%E1%86%B7%E1%84%8B%E1%85%B3%E1%86%AF%20%2051ded/My_project_(2).png)
+<img src="https://user-images.githubusercontent.com/79819812/156923076-65c05269-f6ac-4d87-8e20-61c736fa4277.png" alt="My project (2).png" style="zoom:33%;" />
+
+
 
 - 안녕하세요 ! 성장과 열정을 즐기는 개발 지원자, 김주형입니다.
 - 개발을 배우기 전엔 저의 넘치는 에너지를 사용할 곳을 열심히 탐색했습니다. 지금은 개발에 아주 많이 빠져 있습니다.
