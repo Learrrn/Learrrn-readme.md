@@ -16,7 +16,7 @@
 - **블로그 :** [https://velog.io/@urtimeislimited](https://velog.io/@urtimeislimited) **✏️**
 - **Github** :  ****[https://github.com/Learrrn](https://github.com/Learrrn) 📓
 
-[https://ghchart.rshah.org/219138/Learrrn](https://ghchart.rshah.org/219138/Learrrn)
+![https://ghchart.rshah.org/219138/Learrrn](https://ghchart.rshah.org/219138/Learrrn)
 
 # **Experience 🏃‍♂️**
 
